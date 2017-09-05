@@ -1,0 +1,103 @@
+/*
+* CSS by Hannah Kan
+* Written for the use of hannahkan.com only
+* © 2016 hannahkan.com
+* license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+*/
+
+@charset "UTF-8";
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	background-size: auto 100%;
+	line-height: 23px;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+a:link, a:visited {
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	cursor: default;
+}
+
+a:hover {
+	color: #dd5847;
+}
+
+#me {
+	display: none;
+}
+
+section {
+	text-align: center;
+	margin: 15% auto;
+}
+
+section img {
+	margin-bottom: 5%;
+}
+
+#nav {
+	display: inline-block;
+	position: relative;
+	top: -15px;
+}
+
+#nav a:link, #nav a:visited {
+	border-radius: 3px;
+	display: inline-block;
+	border: 1pt solid #000;
+	padding: 3px 8px 2px 8px;
+	margin: 3px;
+	text-transform: uppercase;
+	font-size: 9pt;
+}
+
+#nav a:hover {
+	color: #fff;
+	border: 1pt solid #dd5847;
+	background-color: #dd5847;
+}
+
+.linkedin, .twitter, .instagram, .dribbble {
+	width: 31px;
+	height: 31px;
+	display: inline-block;
+	background-position: 0px 0px;
+	margin: 3px;
+}
+
+.linkedin:hover, .twitter:hover, .instagram:hover, .dribbble:hover {
+	width: 31px;
+	height: 31px;
+	display: inline-block;
+	background-position: 31px 0px;
+}
+
+.linkedin {
+	background:url(icon_linkedin.png);
+}
+
+.twitter {
+	background:url(icon_twitter.png);
+}
+
+.instagram {
+	background:url(icon_ig.png);
+}
+
+.dribbble {
+	background:url(icon_dribbble.png);
+}
+
