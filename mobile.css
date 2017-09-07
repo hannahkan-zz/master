@@ -16,7 +16,7 @@
 
 body {
 	font-family: 'Roboto Condensed', sans-serif;
-	background: url(http://i67.tinypic.com/14u9fee.png) top right no-repeat fixed;
+	background: url('http://i67.tinypic.com/14u9fee.png') no-repeat fixed top left;
 	line-height: 23px;
 }
 
