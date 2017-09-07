@@ -17,7 +17,7 @@
 body {
 	font-family: 'Roboto Condensed', sans-serif;
 	background: url('bg-mobile.png') no-repeat fixed top left;
-	background-size: 100%;
+	background-size: 100% 25%;
 	line-height: 23px;
 }
 
