@@ -54,6 +54,10 @@ section img {
 	margin-bottom: 5%;
 }
 
+.mobilelogo {
+	display: none;
+}	
+
 #nav {
 	display: inline-block;
 	position: relative;
