@@ -48,6 +48,10 @@ section img {
 	margin-bottom: 5%;
 }
 
+.logo {
+	display: none;
+}
+
 #nav {
 	display: inline-block;
 	position: relative;
