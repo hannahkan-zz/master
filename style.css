@@ -16,8 +16,6 @@
 
 body {
 	font-family: 'Archivo Narrow', sans-serif;
-	font-size: 16px;
-	line-height: 18px;
 	background: url(bg.png) fixed top right no-repeat;
 	background-size: auto 100%;
 }
@@ -50,6 +48,8 @@ section {
 	left: 4%;
 	text-align: center;
 	width: 50%;
+	font-size: 16px;
+	line-height: 18px;
 }
 
 section img {
