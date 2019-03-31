@@ -52,6 +52,18 @@ section img {
 	display: none;
 }
 
+h1 {
+	line-height: 40px;	
+	font-size: 36px;
+}
+
+h1 small {
+	line-height: 28px;	
+	font-size: 16px;
+	position: relative;
+	top: -12px;
+}
+
 #nav {
 	display: inline-block;
 	position: relative;
