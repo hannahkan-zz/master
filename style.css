@@ -7,7 +7,7 @@
 
 @charset "UTF-8";
 
-@import url(https://fonts.googleapis.com/css?family=Geo);
+@import url(https://fonts.googleapis.com/css?family=Archivo+Narrow);
 
 * {
 	margin: 0;
@@ -15,7 +15,7 @@
 }
 
 body {
-	font-family: 'Geo', sans-serif;
+	font-family: 'Archivo Narrow', sans-serif;
 	background: url(bg.png) fixed top right no-repeat;
 	background-size: auto 100%;
 }
