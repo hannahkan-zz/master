@@ -53,13 +53,13 @@ section img {
 }
 
 h1 {
-	line-height: 40px;	
-	font-size: 36px;
+	line-height: 30px;	
+	font-size: 26px;
 }
 
 h1 small {
-	line-height: 28px;	
-	font-size: 16px;
+	line-height: 24px;	
+	font-size: 12px;
 	position: relative;
 	top: -12px;
 }
