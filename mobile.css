@@ -16,7 +16,6 @@
 
 body {
 	font-family: 'Archivo Narrow', sans-serif;
-	font-size: 11pt;
 	background: url('bg-mobile.png') no-repeat fixed top left;
 	background-size: 100% 25%;
 }
@@ -43,6 +42,7 @@ a:hover {
 section {
 	text-align: center;
 	margin: 15% auto;
+	font-size: 11pt;
 }
 
 section img {
