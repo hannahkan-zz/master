@@ -56,7 +56,17 @@ section img {
 
 .mobilelogo {
 	display: none;
-}	
+}
+
+h1 {
+	line-height: 16px;	
+	font-size: 14px;
+}
+
+h1 small {
+	line-height: 11px;	
+	font-size: 9px;
+}
 
 #nav {
 	display: inline-block;
