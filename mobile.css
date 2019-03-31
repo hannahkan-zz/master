@@ -16,6 +16,7 @@
 
 body {
 	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 11pt;
 	background: url('bg-mobile.png') no-repeat fixed top left;
 	background-size: 100% 25%;
 }
