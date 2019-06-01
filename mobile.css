@@ -32,7 +32,7 @@ a:link, a:visited {
 }
 
 a:hover {
-	color: #dd5847;
+	color: #B65454;
 }
 
 #me {
@@ -84,8 +84,8 @@ h1 small {
 
 #nav a:hover {
 	color: #fff;
-	border: 1pt solid #dd5847;
-	background-color: #dd5847;
+	border: 1pt solid #B65454;
+	background-color: #B65454;
 }
 
 .linkedin, .twitter, .instagram, .dribbble {
